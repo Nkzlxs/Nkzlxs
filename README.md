@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ### I am
-- Currently full-time student
-- an average CTF player
+- a full-time student
+- a CTF player
 
 ### My Hobbies
-- Study
-- Make random videos
-- Play Minecraft Parkour
+- study
+- make random videos
+- play Minecraft parkour
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkzlxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
