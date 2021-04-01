@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### My Hobbies
 - Study
-- Makes random videos
+- Make random videos
 - Play Minecraft Parkour
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkzlxs)](https://github.com/anuraghazra/github-readme-stats)
