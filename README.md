@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### I am
 - Currently full-time student
-- Average CTF player
+- an average CTF player
 
-### Hobbies
-- Studying
-- Making random videos
+### My Hobbies
+- Study
+- Makes random videos
 - Play Minecraft Parkour
 
 
