@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I am
-- a full-time student
+- a ~~full-time~~ part-time student
 - a CTF player
 
 ### My Hobbies
