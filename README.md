@@ -14,15 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### I am
-- a ~~full-time~~ part-time student
-- a CTF player
-
-### My Hobbies
-- study
-- make random videos
-- play Minecraft parkour
+I sometimes write code based on my own interest, modify others code based on my own interest, opinions are mine.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkzlxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
