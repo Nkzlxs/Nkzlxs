@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I sometimes write code based on my own interest, modify others code based on my own interest, opinions are mine.
+I sometimes write, modify code based on my own interest.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkzlxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
