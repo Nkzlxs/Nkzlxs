@@ -19,3 +19,5 @@ I sometimes write, modify code based on my own interest.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkzlxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
+
+👍
