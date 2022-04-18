@@ -20,4 +20,4 @@ I sometimes write, modify code based on my own interest.
 
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
 
-👍
+👍5 star to github, definite a good place to seek out forgotten/forbidden knowledge
